@@ -1,0 +1,31 @@
+body {
+    background-color: background: rgb(101,23,88);
+    background: linear-gradient(90deg, rgba(101,23,88,1) 0%, rgba(49,21,98,1) 35%, rgba(27,24,52,1) 100%);
+    font-family: sans-serif;
+    margin: 50px;
+}
+
+h1 {
+    color: #ff1675;
+    font-size: 18px;
+    
+}
+
+h2 {
+    color:#FFF;
+    font-size: 48px
+}
+
+p {
+    color: #FFF;
+    margin-bottom: 30px;
+}
+
+a {
+    background-color:#ff1675;
+    padding: 15px;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+}
